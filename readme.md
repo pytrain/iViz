@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+Welcome to the Introductory to Python-Based Interactive Visualizations course as part of the GSFC Python Training Lecture Series! Below are the lectures intended to teach you the necessary skills needed to produce interactive visualizations and more. To get started, please refer below for the required software installations and then follow the agenda according to your interests or in order as a recommended learning path.
 
-You can use the [editor on GitHub](https://github.com/pytrain/iviz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Software Requirements
+* A modern web browser (Google Chrome, Mozilla Firefox, and Google Chrome are preferred)
+* Plaintext/ASCII editor that you know how to use to write a text file (Microsoft Word is not a viable solution)
+* A Gmail account in order to use, save, and interact with our online Python lectures at [Google Collaboratory](https://colab.research.google.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Agenda
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pytrain/iviz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(coming soon!)

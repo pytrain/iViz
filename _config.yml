@@ -1,1 +1,8 @@
+title: >
+  <center><img src="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg"></center>
+  <a href="https://pytrain.github.io/web_prog/" style="color: white; text-decoration: none">GSFC Python Training Lecture Series</a>
+  <h4><strong>Contact:</strong> brent dot smith at nasa dot gov</h4>
+description: Python-Based Interactive Visualizations
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
