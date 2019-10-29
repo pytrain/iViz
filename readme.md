@@ -1,4 +1,4 @@
-Welcome to the Python-Based Interactive Visualizations course as part of the GSFC Python Training Lecture Series! Below are the lectures intended to teach you the necessary skills needed to produce interactive visualizations and more. To get started, please refer below for the required software installations and then follow the agenda according to your interests or in order as a recommended learning path.
+Welcome to the Introductory to Python-Based Interactive Visualizations course as part of the GSFC Python Training Lecture Series! Below are the lectures intended to teach you the necessary skills needed to produce interactive visualizations and more. To get started, please refer below for the required software installations and then follow the agenda according to your interests or in order as a recommended learning path.
 
 ## Software Requirements
 * A modern web browser (Google Chrome, Mozilla Firefox, and Google Chrome are preferred)
@@ -7,4 +7,7 @@ Welcome to the Python-Based Interactive Visualizations course as part of the GSF
 
 ## Agenda
 
-(coming soon!)
+| Lecture Topic | Lecture Material |
+|---------------|------------------|
+| Introduction  | [Link](intro.md) |
+| Bokeh         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytrain/iViz/blob/master/IV_Bokeh.ipynb)
